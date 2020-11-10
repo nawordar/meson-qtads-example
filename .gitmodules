@@ -1,0 +1,3 @@
+[submodule "subprojects/qtads"]
+	path = subprojects/qtads
+	url = git@github.com:githubuser0xFFFF/Qt-Advanced-Docking-System.git
